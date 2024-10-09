@@ -94,9 +94,9 @@ img {
 }
 
 .hero-avatar img {
-  width: 320px;
-  height: 320px;
-  border-radius: 50%;
+  width: 360px;
+  height: 360px;
+  border-radius: 40%;
 }
 
 @media (max-width: 1199.98px) {
